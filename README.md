@@ -1,0 +1,2 @@
+# Loyiha-ishi
+Billing_kompaniyasini_malumotlar_bazasini_yaratish
